@@ -22,6 +22,4 @@ You’ve found your way here because you’re either bored or you’re hunting f
 - **PRs are welcome**, but only if you can tolerate broken things.
 
 ---
-
-### Watch Me Code (Or Fail):
-![Coding Animation](https://media.giphy.com/media/26u4w2XzWWJtprgYc/giphy.gif)
+![Animation]([https://media.giphy.com/media/26u4w2XzWWJtprgYc/giphy.gif](https://github.com/Ph4r0h/Ph4r0h/blob/main/dust.gif))
