@@ -1,6 +1,8 @@
 # Welcome to the **Domain of Pharaoh, Doing Dope Things**
 
-<img src="https://raw.githubusercontent.com/Ph4r0h/Ph4r0h/main/dust.gif" alt="Animation" style="border-radius: 50%; width: full; height: full;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ph4r0h/Ph4r0h/main/dust.gif" alt="Animation" style="border-radius: 50%; width: full; height: full;">
+</p>
 
 You’ve found your way here because you’re either bored or you’re hunting for some world-class, clean code. Guess what? You're about to be disappointed. Everything here is a **work in progress**... since forever. **I don't always write clean code**… but when I do, I forget to commit it.
 
