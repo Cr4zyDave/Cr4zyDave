@@ -4,6 +4,7 @@ You’ve found your way here because you’re either bored or you’re hunting f
 
 ## The Truth:
 - **I don't always write clean code**… but when I do, I forget to commit it.
+
 ---
 
 ### My **Non-Impressive** Stats:
