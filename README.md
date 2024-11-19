@@ -1,11 +1,11 @@
-# Welcome to My GitHub. Enjoy your stay. :>
+# Welcome to My GitHub. Enjoy your stay :>
 
 You probably ended up here because you're looking for cutting-edge code or **world-class solutions**. Well, let me save you the trouble—this is a place of **broken dreams**, **unoptimized code**, and **questionable decisions**. You’ve been warned. :D
 
 ## The Shocking Truth About Me
-- I don’t *always* write clean code... But when I do, I delete it by mistake.
-- **Debugging**? Yeah, it’s just a polite way of saying "I have no idea what I’m doing."
-- 100% of my projects are **works in progress** (since 2015).
+- **I don't always write clean code**… but when I do, I forget to commit it.
+- **I prefer to debug my own mistakes**. Why bother when StackOverflow has the same solution for every issue?
+- **This repository is currently under construction**... forever.
 - I will **absolutely** ignore your issue request if it’s too complicated. :>
 
 ---
