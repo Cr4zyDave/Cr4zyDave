@@ -24,10 +24,5 @@ You’ve found your way here because you’re either bored or you’re hunting f
 
 ---
 
-### Fun Fact:
-- **I code like it's a life-or-death situation... but mostly it's a nap situation.**
-
----
-
 ### Watch Me Code (Or Fail):
 ![Coding Animation](https://media.giphy.com/media/26u4w2XzWWJtprgYc/giphy.gif)
