@@ -1,62 +1,38 @@
-# Welcome to My GitHub. Enjoy your stay :>
+# Welcome to My GitHub. Don’t Expect Much. :>
 
-You probably ended up here because you're looking for cutting-edge code or **world-class solutions**. Well, let me save you the trouble—this is a place of **broken dreams**, **unoptimized code**, and **questionable decisions**. You’ve been warned. :D
+You’ve found your way here because you’re either bored or you’re hunting for some world-class, clean code. Guess what? You're about to be disappointed. Everything here is a **work in progress**... since 2015.
 
-## The Shocking Truth About Me
-- **I don't always write clean code**… but when I do, I forget to commit it.
-- **I prefer to debug my own mistakes**. Why bother when StackOverflow has the same solution for every issue?
-- **This repository is currently under construction**... forever.
-- I will **absolutely** ignore your issue request if it’s too complicated. :>
-
----
-
-### What’s on This Playground?
-- **Web Dev Projects**: Mostly half-done tutorials I gave up on. Still, they're here, somewhere.
-- **Cybersecurity Tools**: For **educational purposes only**. Not that anyone listens to that.
-- **Scripted Solutions**: Because who needs a real solution when you can automate everything? It may or may not work for you, though.
+## The Truth:
+- I **don’t** write clean code, I write **functional chaos**.
+- Debugging? It's just me pretending to know what I’m doing.
+- Commit messages? "Fixed things" or "Ugh, why does this work?"
 
 ---
 
-### Stats (For The Curious, Or The Insomniacs)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)](https://github.com/yourusername)
+### 📊 My **Non-Impressive** Stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/yourusername)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=5&theme=tokyonight)](https://github.com/yourusername)
-
----
-
-### Skills That I **Totally** Use
-- **JavaScript**: A language I can’t quit even though it makes me cry every time.
-- **Python**: It's almost like I know what I’m doing... but not really.
-- **C++**: Used only when I want to feel like a "serious" programmer, but it's mostly just for flexing.
-- **HTML/CSS**: Still amazed I can make a webpage *look* decent. Functionality? Eh, not so much.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=5&theme=radical)](https://github.com/yourusername)
 
 ---
 
-### Currently **Pretending** to Work On:
-- **Perfecting the art of procrastination**.
-- **Over-engineering simple things** just to look like I know something.
-- **Watching tutorials and thinking "I could totally do that"**.
+### 🤖 What You Won’t Find Here:
+- Working code.
+- Documentation that makes sense.
+- Anything that remotely looks like a “serious project.”
 
 ---
 
-### How You Can Contribute:
-- **Fix my bugs**. There are plenty. **Have fun with that**.
-- **Fork it**. Who needs to create something new when you can **pretend** to improve something old?
-- **Send a PR**. It might be accepted... Or I’ll just ignore it. :>
-
----
-
-### Let's Be Honest Here:
-I’m just another coder on the internet, trying to build useless things and **not** document them. If you find anything that works, well... that’s a **miracle**.
+### How to Contribute:
+- **Fork my repos**, I promise I won’t notice.
+- **PRs are welcome**, but only if you can tolerate broken things.
 
 ---
 
 ### Fun Fact:
-My **commit messages** go like this:
-- "Fix things" (obviously)
-- "Ugh" (on a bad day)
-- "No clue what I did, but it works" (on a good day)
+- **I code like it's a life-or-death situation... but mostly it's a nap situation.**
 
 ---
 
-Thanks for wasting your time here. The door’s that way if you want to leave, but I’ll just pretend you had a good time. :>
+### Watch Me Code (Or Fail):
+![Coding Animation](https://media.giphy.com/media/26u4w2XzWWJtprgYc/giphy.gif)
