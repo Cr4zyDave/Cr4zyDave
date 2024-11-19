@@ -4,9 +4,7 @@ You’ve found your way here because you’re either bored or you’re hunting f
 
 ## The Truth:
 - **I don't always write clean code**… but when I do, I forget to commit it.
-- Debugging? It's just me pretending to know what I’m doing.
-- Commit messages? "Fixed things" or "Ugh, why does this work?"
-
+- 
 ---
 
 ### My **Non-Impressive** Stats:
