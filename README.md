@@ -1,6 +1,6 @@
-# Welcome to My GitHub. Don’t Expect Much. :>
+# Welcome to My GitHub. Don’t Expect Much :>
 
-You’ve found your way here because you’re either bored or you’re hunting for some world-class, clean code. Guess what? You're about to be disappointed. Everything here is a **work in progress**... since 2015.
+You’ve found your way here because you’re either bored or you’re hunting for some world-class, clean code. Guess what? You're about to be disappointed. Everything here is a **work in progress**... since forever.
 
 ## The Truth:
 - I **don’t** write clean code, I write **functional chaos**.
