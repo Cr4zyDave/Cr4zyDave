@@ -1,4 +1,4 @@
-# Welcome to the **Domain of Pharaoh, Doing Dope Things**
+# Code by Crazy Dave: Expect Bugs, Chaos, and Unnecessary Genius
 
 You’ve found your way here because you’re either bored or you’re hunting for some world-class, clean code. Guess what? You're about to be disappointed. Everything here is a **work in progress**... since forever. **I don't always write clean code**… but when I do, I forget to commit it.
 
